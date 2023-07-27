@@ -129,4 +129,5 @@ a{
     border-radius: 5px;
     background: url(/img/mountain_3.png);
     background-size: cover;
+    position: relative;
 }
